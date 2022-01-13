@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **MERN Stack, Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://swarajjadhav.godaddysites.com/](https://swarajjadhav.godaddysites.com/)
+- 👨‍💻 All of my projects are available at [https://swarajjadhav.godaddysites.com/](https://swaraj-jadhav.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@jadhavswaraj1920](https://medium.com/@jadhavswaraj1920)
 
