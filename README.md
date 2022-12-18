@@ -4,9 +4,9 @@
 
 <h2>Hi There <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-### I'm a **Full Stack Web Developer**. I am from Mumbai, Maharashtra and currently working at Cointab Company. I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with C, C++ and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
+### I'm a **Full Stack Web Developer**. I am from Mumbai, Maharashtra. I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with C, C++ and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
 
-#### 📄 [Resume](https://drive.google.com/file/d/1bIN9HBQxcvXLHl5-Trb5zEBP3pxCe_U7/view)
+#### 📄 [Resume]()
 
 ## Skill Set :muscle:
 
