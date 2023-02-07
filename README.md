@@ -6,7 +6,6 @@
 
 ### I'm a **Full Stack Web Developer**. I am from Mumbai, Maharashtra. I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with C, C++ and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
 
-#### 📄 [Resume]()
 
 ## Skill Set :muscle:
 
