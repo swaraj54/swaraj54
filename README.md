@@ -17,11 +17,6 @@
 |--|--|
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30">|<h3>jadhavswaraj1920@gmail.com</h3>
 
-## My Projects
-
-### [CultFit Clone](https://masaicult.herokuapp.com/)
-
-### [Strawberrynet Clone](https://strawberrynet.vercel.app/)
 
 ## Some of my stats :bar_chart:
 
